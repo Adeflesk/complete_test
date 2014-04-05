@@ -1,7 +1,8 @@
 
 node_modules/**/*
-components/**/*
+app/bower_components/**/*
 npm-debug.log
 .idea
 .sass-cache/**/*
 .temp
+bin/**/*
